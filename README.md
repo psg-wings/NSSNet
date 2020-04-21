@@ -1,2 +1,2 @@
 # NSSNet
-The code will be released after the paper is accepted.
+The code will be released upon acceptance.
